@@ -6,6 +6,7 @@ body {
 	background-color: #6A81A8;
 	padding-top: 48px;
 	font-family: 'Skranji', cursive;
+	color: black;
 }
 
 .jumbotron	{
@@ -45,6 +46,7 @@ img{max-width:100%;}
 	*{transition: all .75s ease;
 		-moz-transition: all .75s ease;
 		-webkit-transition: all .75s ease}
+
 .proList {
     width: 100%;
     height: 275px;
@@ -56,6 +58,7 @@ img{max-width:100%;}
     position:relative;
     overflow:hidden;
 }
+
 .proList h3{
     text-align: left;
     font-size: 14px;
@@ -66,6 +69,7 @@ img{max-width:100%;}
     margin-bottom: 5px;
     padding-bottom: 5px;
     }
+
 .proList .offer{
     width: 100%;
     float: left;
@@ -75,6 +79,7 @@ img{max-width:100%;}
     padding-top: 5px;
 	font-weight: 1000;
     }
+
 .detail {
     position: absolute;
     top: -107%;
