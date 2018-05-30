@@ -3,10 +3,15 @@ h1 	{
 }
 
 body {
-    background-image: url(img/background2.jpg);
-	padding-top: 48px;
+    background-image: url(img/background.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	padding-top: 64px;
 	font-family: 'Skranji', cursive;
 	color: black;
+
 }
 
 .jumbotron	{
@@ -14,7 +19,8 @@ body {
 }
 
 #logo	{
-	border-radius: 12px;
+
+    border-radius: 15px;
 }
 
 .row {
