@@ -3,14 +3,14 @@ h1 	{
 }
 
 body {
-    background-image: url(img/background.jpg);
+    background-image: url(img/background2.jpg);
 	padding-top: 48px;
 	font-family: 'Skranji', cursive;
 	color: black;
 }
 
 .jumbotron	{
-	background-color: #6A81A8;
+	background-color: transparent;
 }
 
 #logo	{
@@ -94,7 +94,9 @@ img{max-width:100%;}
 	
 .proList:hover 
 
-.detail{top:0;}
+.detail{
+    top:0;
+}
 
 .videoWrapper {
     position: relative;
@@ -102,6 +104,7 @@ img{max-width:100%;}
     padding-top: 25px;
     height: 0;
 }
+
 .videoWrapper iframe {
     position: absolute;
     top: 0;
