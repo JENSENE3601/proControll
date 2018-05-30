@@ -23,6 +23,10 @@ body {
     border-radius: 15px;
 }
 
+#logo2  {
+    max-height: 350px;
+}
+
 .row {
 	text-align: center;
 }
